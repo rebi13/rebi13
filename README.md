@@ -7,6 +7,8 @@
     <img src="https://github-readme-stats.vercel.app/api?username=rebi13&show_icons=true&theme=transparent" width="53%" />
 </a>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frebi13%2Fhit-counter&count_bg=%233DC4C8&title_bg=%234C7A7F&icon=nucleo.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=rebi13&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a> -->
